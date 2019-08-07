@@ -1,0 +1,8 @@
+[package]
+name = "main"
+version = "0.1.0"
+authors = ["Solleter <Solleter@outlook.com>"]
+edition = "2018"
+
+[dependencies]
+p01_simple_http_server = { path = "../p01_simple_http_server" }
